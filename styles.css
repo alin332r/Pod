@@ -62,5 +62,11 @@ body, html {
     margin-left: auto;
     margin-right: auto 
   }
+.center-video {
+  display: flex;
+  justify-content: center;  /* Alinha horizontalmente no centro */
+  align-items: center;      /* Alinha verticalmente no centro */
+  height: 100vh;            /* Garante que o vídeo seja centralizado verticalmente, ocupando a altura da janela */
+}
 
 
