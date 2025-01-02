@@ -61,3 +61,10 @@ body, html {
     display: block;
     margin-left: auto;
     margin-right: auto }
+
+.foto1 {
+  width: 50%;  /* Ajusta a largura da imagem para 50% da largura do seu contêiner */
+  height: auto; /* Mantém a proporção da imagem */
+}
+
+
