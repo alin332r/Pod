@@ -1,5 +1,9 @@
 # ByteFlow: Rumo ao Amanhã Digital 🎙️💻
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f900c83a-d0cc-42d2-b51e-f241b4f4022e" alt="Imagem" width="400" />
+</div>
+
 ## Bem-vindo ao "ByteFlow: Rumo ao Amanhã Digital" 🎧🚀
 
 Seja bem-vindo ao **ByteFlow**, o podcast que explora o universo da **tecnologia e notícias**. Apresentado por **Paulo Roberto** e **Aline**, dois estudantes do curso de **Análise e Desenvolvimento de Sistemas** na **ESBAM** (Escola Superior Batista do Amazonas), o podcast traz uma abordagem única sobre o que está acontecendo no mundo digital.
