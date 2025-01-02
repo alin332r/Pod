@@ -62,4 +62,17 @@ body, html {
     margin-left: auto;
     margin-right: auto }
 
+div {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  height: 100vh; /* Define a altura da div para ocupar toda a tela */
+}
+
+.foto1 {
+  max-width: 100%; /* Garante que a imagem não ultrapasse os limites da tela */
+  height: auto; /* Ajusta a altura automaticamente para manter a proporção */
+}
+
+
   
