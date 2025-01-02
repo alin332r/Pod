@@ -69,4 +69,10 @@ body, html {
   height: 100vh;            /* Garante que o vídeo seja centralizado verticalmente, ocupando a altura da janela */
 }
 
+.social-bar {
+  display: flex;
+  justify-content: center;  /* Alinha os ícones horizontalmente no centro */
+  align-items: center;      /* Alinha os ícones verticalmente no centro, se necessário */
+  gap: 20px;                /* Adiciona um espaço entre os ícones */
+}
 
