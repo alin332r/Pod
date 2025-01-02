@@ -1,15 +1,15 @@
 /* Estilo Geral */
-body {
-  font-family: Arial, sans-serif;
+body, html {
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9; /* Fundo claro */
-  color: #333; /* Texto escuro */
+  height: 100%;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
 }
 
 header {
-  background-color: #333; /* Fundo escuro */
-  color: #FFD700; /* Texto amarelo dourado */
+  background-color: #333;
+  color: #FFD700;
   padding: 20px;
   text-align: center;
 }
@@ -21,15 +21,7 @@ h1, h2 {
 
 section {
   padding: 20px;
-}
-
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
+  text-align: center; /* Centralizando o texto da seção inteira */
 }
 
 /* Navegação */
@@ -132,3 +124,17 @@ form button:hover {
     text-align: left;
   }
 }
+
+/* Centralizar os Parágrafos */
+p {
+  text-align: center; /* Centralizando todos os parágrafos */
+}
+
+h2 {
+  text-align: center; /* Centralizando os cabeçalhos h2 */
+}
+
+.contatos p {
+  text-align: center;
+}
+
